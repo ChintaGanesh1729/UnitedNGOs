@@ -1,16 +1,4 @@
 ---
-
-#  UnitedNGOs — Empowering Collaboration for Social Impact
-
-![React](https://img.shields.io/badge/React-18.2-blue)
-![Express](https://img.shields.io/badge/Express-4.18-green)
-![Node.js](https://img.shields.io/badge/Node.js-18.x-brightgreen)
-![MongoDB](https://img.shields.io/badge/MongoDB-6.0-darkgreen)
-![Vite](https://img.shields.io/badge/Vite-Latest-purple)
-![Socket.io](https://img.shields.io/badge/Socket.io-Optional-black)
-
----
-
 ##  **Live Demo**
 
 🔗 **[View Live NGO Connect Here](https://unitedngos-3.onrender.com/ )**
